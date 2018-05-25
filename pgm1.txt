@@ -1,0 +1,6 @@
+b = [1, 3; 7, 1]
+disp(b)
+myfact = prod(1:6)
+disp('Factorial value:', num2str(myfact))
+
+scilab equivalent = string(x)
